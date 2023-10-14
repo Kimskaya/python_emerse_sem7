@@ -43,4 +43,4 @@ def sort_files(path):
             os.replace(i, f"{key}\\{i}")
 
 if __name__=="__main__":
-    sort_file(r'D:\nika\учеба-GeekBrains\GIT_repositorys\repoz_python_seminar_5_26_09_23\packeg_seminar7\test')
+    sort_files(r'C:\Users\zhdanovы\Desktop\Погружение в Питон\семинар 7\test')
